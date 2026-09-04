@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_range.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahobeida <ahobeida@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/11 10:32:57 by ahobeida          #+#    #+#             */
 /*   Updated: 2026/08/16 16:00:24 by ahobeida         ###   ########.fr       */
