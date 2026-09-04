@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strjoin.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahobeida <ahobeida@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/11 12:32:03 by ahobeida          #+#    #+#             */
 /*   Updated: 2026/08/17 11:52:33 by ahobeida         ###   ########.fr       */
