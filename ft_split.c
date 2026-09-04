@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_split.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahobeida <ahobeida@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/12 12:59:54 by ahobeida          #+#    #+#             */
 /*   Updated: 2026/08/16 14:24:49 by ahobeida         ###   ########.fr       */
