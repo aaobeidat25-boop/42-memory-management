@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_ultimate_range.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahobeida <ahobeida@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/11 10:42:32 by ahobeida          #+#    #+#             */
 /*   Updated: 2026/08/16 16:40:43 by ahobeida         ###   ########.fr       */
