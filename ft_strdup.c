@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strdup.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ahobeida <ahobeida@learner.42.tech>        +#+  +:+       +#+        */
+/*   By: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/08/11 10:25:24 by ahobeida          #+#    #+#             */
 /*   Updated: 2026/08/17 15:01:27 by ahobeida         ###   ########.fr       */
